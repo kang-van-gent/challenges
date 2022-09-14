@@ -16,4 +16,4 @@ function threeFive(num) {
   }
 }
 
-threeFive(30);
+threeFive(100);
